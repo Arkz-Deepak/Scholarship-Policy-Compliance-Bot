@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+my_bot_env/
+venv/
+.DS_Store

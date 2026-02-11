@@ -1,0 +1,21 @@
+rule_id,scholarship_a,scholarship_b,allowed,max_combined_amount,reason
+DBR001,SCH001,SCH002,Yes,100000,Both are tuition based; capped combined funding
+DBR002,SCH001,SCH004,No,0,Institute excellence is exclusive
+DBR003,SCH003,SCH006,Yes,60000,Both are hostel aid; capped
+DBR004,SCH004,SCH007,No,0,Both are exclusive scholarships
+DBR005,SCH005,SCH008,Yes,80000,Stipend overlap allowed with cap
+DBR006,SCH007,ANY,No,0,Single Scholarship Scheme cannot combine
+DBR007,SCH012,ANY,No,0,Sports quota must be standalone
+DBR008,SCH015,ANY,No,0,Research fellowship is exclusive
+DBR009,SCH010,SCH001,Yes,90000,EWS + merit allowed with cap
+DBR010,SCH014,SCH006,No,0,Duplicate hostel funding
+DBR011,SCH018,ANY,No,0,Industry sponsored award exclusive
+DBR012,SCH013,SCH005,Yes,75000,Disability + private stipend capped
+DBR013,SCH016,SCH001,Yes,95000,Girl child + merit allowed
+DBR014,SCH017,SCH003,No,0,Minority hostel duplication
+DBR015,SCH020,ANY,No,0,Special needs exclusive grant
+DBR016,SCH009,SCH011,Yes,70000,Rural + first graduate stipend
+DBR017,SCH002,SCH010,Yes,85000,Category + EWS overlap capped
+DBR018,SCH008,SCH015,No,0,Fellowship overlap forbidden
+DBR019,SCH019,SCH005,Yes,65000,Arts + private stipend
+DBR020,SCH006,SCH014,No,0,Hostel aid duplication

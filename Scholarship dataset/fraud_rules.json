@@ -1,0 +1,13 @@
+{
+  "income_anomaly_threshold": 40,
+  "duplicate_identity_fields": [
+    "aadhaar_hash",
+    "bank_account_hash"
+  ],
+  "risk_weights": {
+    "income_mismatch": 40,
+    "duplicate_identity": 60,
+    "missing_documents": 20
+  },
+  "auto_escalate_score": 70
+}
