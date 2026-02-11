@@ -65,9 +65,9 @@ We solved this using a two-layer approach, combining deterministic logic with ma
 │   └── fraud_rules.json
 └── README.md             # Documentation
 ---
-👥 Team Arkz
-Deepak R - AI Architect & Backend Logic
+#👥 Team Arkz
+##Deepak R - AI Architect & Backend Logic
 
-Kamalesh - Frontend & Presentation
-
+##Kamalesh - Frontend & Presentation
+---
 Built for the Build-a-Bot Hackathon 2026.
